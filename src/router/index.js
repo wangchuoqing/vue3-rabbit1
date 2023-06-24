@@ -12,7 +12,7 @@ const router = createRouter({
     // path和component对应关系的位置
     routes: [
         {
-            path: '/',
+            path: '',
             component: Layout,
             children: [
                 {
